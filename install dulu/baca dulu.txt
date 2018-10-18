@@ -1,0 +1,4 @@
+Copy msvcp110.dll dan msvcr110.dll ke:
+
+C:\Windows\System32
+C:\Windows\SysWOW64 (kalau ada)
